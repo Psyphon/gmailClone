@@ -12,6 +12,7 @@
     "core-js": "^3.6.4",
     "date-fns": "^2.11.0",
     "marked": "^0.8.1",
+    "node": "^23.5.0",
     "vue": "^3.0.0-rc.5"
   },
   "devDependencies": {
